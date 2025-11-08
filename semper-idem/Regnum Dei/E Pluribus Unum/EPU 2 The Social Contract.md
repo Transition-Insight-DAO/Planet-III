@@ -66,51 +66,19 @@ When our cleverest physicists opt for roles in finance as quants instead of buil
 
 Particularly troubling is that these circumstances accompany a widening disparity in outcomes for people in western society as wealth, income inequality and the so-called diseases of civilization (cancer, heart disease, diabetes, chronic stress) leave increasingly large numbers of people fearful and panicked at the prospect of very real *scarcity* (malnutrition and illness) for the first time since the Great Depression.
 
-What we have then is a polarized escalation of animus both among increasingly static middle class and the poorest. Meanwhile those comfortably ensconced in positions of authority perceiving rising volatility and civil unrest ramp up their perimeter, surveillance and security apparatus. Each segment of society anticipating and pre-emptively *reacting* to animus from another propels an escalating cycle of chaos.
-
-All the while of course we sense the world coming apart because our administrative classes appear increasingly spontaneous in their generation of policy responses. If they are market focused their only objective is revenue and the current quarter.  As well, more to the point, rather than guide our collective towards creative pursuits to resolve our long-lasted 'productivity conundrum' they are instead mired in a competitive race to accumulate and express opulent consumption; then serving it up to the world as evidence of great ability and accomplishment.
-
-**HERE**
-
-Meanwhile, having grown disenchanted real creative talent checks out.
-
- best and most creative check out to express themselves in the arising parallel system designed, with the self-enforcing discipline of transparency, to manifest providence.
+What we have then is a polarized escalation of animus both among increasingly static middle class and the poorest. Meanwhile those comfortably ensconced in positions of authority perceiving rising volatility and civil unrest ramp up their perimeter, surveillance and security apparatus. Each segment of society anticipating and pre-emptively *reacting* to animus from another propels an escalating cycle of chaos. All the while of course we sense the world coming apart, noting with alacrity that our civil administrative classes appear increasingly spontaneous and haphazard in their 'policy responses'. Meanwhile their 'private sector' equivalents are in perpetual survival mode - their only objective now is the current quarter's revenue.  All of them, rather than guide our collective towards creative pursuits to resolve our long-lasted 'productivity conundrum' mire themselves in a competitive race to accumulate and express opulent consumption; then serve it up to the world as evidence of great ability and accomplishment. It is money that helps is used to keep scores and to settle them
 
 
 
 ## Providence
 
 
-
-
-
-
-
-
-
-
-
-and in my estimation is beginning to fail across vast number of us is when exhaustion sets in with materialistic ambitions of those who occupy high office, that is, those I referred in Part 1 as comprising Leviathan. 
-
-t
-
-
-
-A *sense of scarcity* can arise from cognitive assessment — your mind calculating that resources, opportunities, or time are limited.
- It’s a **rational perception**, often tied to survival logic:
-
-- “There isn’t enough food / money / attention / status to go around.”
-- “If I don’t act now, I’ll lose out.”
-
-
-
-## Providence
 
 Once again the key idea in contracts, and of course this includes social contracts is they result in sum positive outcomes.
 
 
 
-**HERE** Reword and introduce the idea of Providence (hierarchy) One unspoken mythology of Western democracy is that of meritocracy: institutions, it is claimed, operate within a system (capitalism) that automatically elevates the most capable individuals, in a free marketplace of ideas rigorously examined by attentive citizens
+**HERE** Reword and introduce the idea of Providence (hierarchy) One unspoken and rather naive mythology of Western democracy is that of meritocracy: institutions, it is claimed, operate within a system (capitalism) that automatically elevates the most capable individuals, in a free marketplace of ideas rigorously examined by attentive citizens
 
 
 
@@ -138,7 +106,9 @@ Once again the key idea in contracts, and of course this includes social contrac
 
 
 
-Think of a society, not as complex as ours but still orderly and structured. Those of our indigenous communities. Or the first societies which formed; ones with *implicit* rules rather than the explicit ones we have today (i.e. law). Obligations, except for the very young *always* precede rights. For example you cannot claim a *rightful* share of gathered and hunted victual without first having participated and asserted *some* talent to express the feeling that you want to belong to a community. Invariably you will introspect on what that may be as you scan your immediate surroundings to find a gap that needs to be filled; a reality or truth which needs to be adjusted to align better with what your nascent community requires as it seeks comfort. In economy, you are *obligated* to stake a investment in order to affect a *return* on investment. In our health and welfare we are obligated to invest time, effort and care in relative youth to reap the return of a relatively comfortable old age.
+Think of a society, not as complex as ours but still orderly and structured. Those of our indigenous communities, for example. Or the first ever societies which formed; ones with *implicit* rules rather than the explicit ones we have today (i.e. law). You' will not that in those communities, except for the very young, Obligations *always* preceded rights. For example you could not credibly claim a *rightful* share of gathered and hunted victuals without first having applied some effort for the collective benefit of community. **HERE**
+
+Invariably you will introspect on what that may be as you scan your immediate surroundings to find a gap that needs to be filled; a reality or truth which needs to be adjusted to align better with what your nascent community requires as it seeks comfort. In economy, you are *obligated* to stake a investment in order to affect a *return* on investment. In our health and welfare we are obligated to invest time, effort and care in relative youth to reap the return of a relatively comfortable old age.
 
 Now we may hallucinate in a moment of inconsiderateness, perhaps prompted by fear or a sense of scarcity, to model our reality differently. It seems trite and simplistic for example but simply using the term 'rights and obligations', placing the effect before the cause may have a profound and rippling impact on how we govern our relationships and transactions with one another. However, nor are rights and obligations enjoyed *simultaneously*. 
 

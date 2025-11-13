@@ -1,4 +1,8 @@
 {
-  "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "promptDelete": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "uriCallbacks": true,
+  "trashOption": "none",
+  "newLinkFormat": "shortest"
 }

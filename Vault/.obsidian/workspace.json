@@ -13,15 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tagged/Anima.md",
+                "file": "notes/Act III.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Anima"
+              "title": "Act III"
+            }
+          },
+          {
+            "id": "51ac7f566754f5cf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -169,8 +181,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "e240e20d4a4a8690",
+  "active": "51ac7f566754f5cf",
   "lastOpenFiles": [
+    "11-11-2025.md",
+    "Untitled.base",
+    "Untitled.canvas",
+    "tagged/Anima.md",
     "tagged/Order.md",
     "notes/commons.md",
     "notes/Trinity Bellwoods Park (TBP).md",
@@ -194,8 +210,6 @@
     "notes/semper idem.md",
     "hourglass of redcurrant.md",
     "notes/Yoga.md",
-    "notes/redcurrant.md",
-    "notes/human-centric systems.md",
-    "notes/Stone Rose.md"
+    "notes/redcurrant.md"
   ]
 }

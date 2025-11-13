@@ -16,8 +16,21 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "ae09c18c47b5b929",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -162,8 +175,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "a57225832cdebd3e",
+  "active": "ae09c18c47b5b929",
   "lastOpenFiles": [
+    "Ashit-Patel.md",
     "Anima.md"
   ]
 }
